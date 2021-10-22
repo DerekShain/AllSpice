@@ -52,3 +52,5 @@ r.*
 FROM spices s 
 LEFT JOIN recipes r on r.id = s.recipeId 
 WHERE s.id = 2;
+
+auth off on mine - nooooooooo =(
